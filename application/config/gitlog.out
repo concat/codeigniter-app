@@ -1,0 +1,25 @@
+*   commit bf6ad0ca58af542368822f823fbe4a0aeef10533
+|\  Merge: 0475e8b afa5ec1
+| | Author: Stephen Beck <beckstep@amazon.com>
+| | Date:   Thu Aug 17 14:39:03 2017 +0000
+| | 
+| |     Merge branch 'master' into testenv
+| |     to test out merging of contents of the same file which conflict
+| |   
+| * commit afa5ec1006c61f2ebbf7075aa1f0e2d93ec91746
+| | Author: Stephen Beck <beckstep@amazon.com>
+| | Date:   Thu Aug 17 14:36:15 2017 +0000
+| | 
+| |     Logging level change to 1 in config.php
+| |   
+* | commit 0475e8b15bfbd60a343bf105a7bc81f0694c20f6
+|/  Author: Stephen Beck <beckstep@amazon.com>
+|   Date:   Wed Aug 16 13:58:11 2017 +0000
+|   
+|       Including Test Website URL in config.php
+|  
+* commit 42443b78ce42f454f18431fe72c9e96105102e12
+  Author: root <root@ip-172-31-1-45.ec2.internal>
+  Date:   Tue Aug 15 19:56:15 2017 +0000
+  
+      Initial commit of application folder
